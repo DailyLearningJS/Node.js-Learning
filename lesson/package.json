@@ -1,0 +1,19 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "记录学习node的过程",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "superagent": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "糖少",
+  "license": "ISC"
+}
