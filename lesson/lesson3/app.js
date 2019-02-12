@@ -1,4 +1,3 @@
-// superagent 抓取页面 & cheerio 简化获取元素
 var express = require('express')
 var superagent = require('superagent')
 var cheerio = require('cheerio')
